@@ -1,6 +1,6 @@
 # Task
 Test_1
-translation java code to python.
+translate java code to python. 
 Task_2
 get and set
 Task_3
